@@ -1,4 +1,4 @@
-# Team Compass for JupyterHub and Binder
+sedotan miring Team Compass for JupyterHub and Binder
 
 ```{image} https://img.shields.io/badge/team-website-orange.svg
 :alt: team website
